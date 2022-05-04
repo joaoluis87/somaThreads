@@ -1,4 +1,4 @@
-# Make-processZombie
+# Soma matriz com threads
 Repositorio com programa em C com finalidade de somar valores de uma matriz com N threads usando a trava mutex para evitar problemas de acesso.   
 Aluno: João Luís Queiroz Castro de Almeida  
 Turma: B  
