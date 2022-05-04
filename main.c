@@ -41,7 +41,7 @@ void *increment(void *args) {
 
         int *linha = (int*)args;
         
-        int sub = soma;
+        //int sub = soma;
 
         for (int i = 0; i < range; i ++) {
                 soma += linha[i];
